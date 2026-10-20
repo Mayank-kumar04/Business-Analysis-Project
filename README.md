@@ -117,7 +117,7 @@ The analysis focuses on identifying:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
+git clone https://github.com/Mayank-kumar04/Business-Analysis-Project.git
 ```
 
 ### 2. Data Cleaning
